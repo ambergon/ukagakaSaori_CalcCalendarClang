@@ -1,5 +1,5 @@
 # ukagakaSaori_CalcCalendar/Clang
-以前C#で書いたものには、SAORIの使用後に、ゴーストのアンインストール等で、SAORIが残ってしまう問題があったのでCで書き直しました。<br>
+以前C#で書いたものには、ゴーストのアンインストール等でSAORIが残ってしまう問題があったのでCで書き直しました。<br>
 前回 : [GitHub - ambergon/ukagakaSaori_CalcCalendar](https://github.com/ambergon/ukagakaSaori_CalcCalendar)<br>
 
 
@@ -26,8 +26,8 @@ CalendarAdd,Saori/ukagakaSaori_CalcCalendar.dll
 ```
 ＊0headつつかれ
 ：計算
-＃（CalendarAdd,（現在年）,（現在月）,（現在日） ,追加年,追加月,追加日）
-（CalendarAdd,（現在年）,（現在月）,（現在日） ,０,－２,１）
+＃（CalendarAdd,（現在年）,（現在月）,（現在日）,追加年,追加月,追加日）
+（CalendarAdd,（現在年）,（現在月）,（現在日）,０,－２,１）
 現在年 : （現在年）
 現在月 : （現在月）
 現在日 : （現在日）
