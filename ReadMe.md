@@ -36,6 +36,7 @@ CalendarAdd,Saori/ukagakaSaori_CalcCalendar.dll
 計算日 : （S2）
 ```
 
+
 ## License
 このプログラムを使ったいかなる問題や損害に対して、私は責任を負いません。<br>
 また、ゴーストなどに同梱して配布していただいて構いません。<br>
