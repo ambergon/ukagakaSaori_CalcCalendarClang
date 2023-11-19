@@ -30,7 +30,7 @@ int main(int argc, char* argv[]) {
     return 0;
 }
 
-#define Debug
+//#define Debug
 
 
 //hにはdllまでのLogFilePathが入っている。
