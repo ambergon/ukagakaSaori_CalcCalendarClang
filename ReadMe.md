@@ -12,7 +12,7 @@
 ```
 ＠SAORI
 ＃呼び出し名,ディレクトリ/名前.dll
-CalendarAdd,Saori/ukagakaSaori_CalcCalendar.dll
+CalcCalendar,Saori/ukagakaSaori_CalcCalendar.dll
 ```
 
 
@@ -26,8 +26,8 @@ CalendarAdd,Saori/ukagakaSaori_CalcCalendar.dll
 ```
 ＊0headつつかれ
 ：計算
-＃（CalendarAdd,（現在年）,（現在月）,（現在日）,追加年,追加月,追加日）
-（CalendarAdd,（現在年）,（現在月）,（現在日）,０,－２,１）
+＃（CalcCalendar,（現在年）,（現在月）,（現在日）,追加年,追加月,追加日）
+（CalcCalendar,（現在年）,（現在月）,（現在日）,０,－２,１）
 現在年 : （現在年）
 現在月 : （現在月）
 現在日 : （現在日）
