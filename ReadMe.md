@@ -1,4 +1,14 @@
 # ukagakaSaori_CalcCalendar/Clang
+伺か/日付計算を簡単にできるSAORIです。
+SSPで動作します。
+```
+＃月や日を追加する場合、年や月がちゃんと繰り上がります。
+＃引き算も可能
+＃（CalcCalendar,（現在年）,（現在月）,（現在日）,追加年,追加月,追加日）
+（CalcCalendar,2023,12,1,0,1,0）
+```
+
+
 以前C#で書いたものには、ゴーストのアンインストール等でSAORIが残ってしまう問題があったのでCで書き直しました。<br>
 前回 : [GitHub - ambergon/ukagakaSaori_CalcCalendar](https://github.com/ambergon/ukagakaSaori_CalcCalendar)<br>
 
