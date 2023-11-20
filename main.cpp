@@ -1,12 +1,6 @@
 
 #include <windows.h>
 #include <string>
-#include <fstream>
-#include <iostream>
-#include <regex>
-
-//sqlite
-#include <sqlite3.h>
 
 //stringstream
 #include <iomanip>
